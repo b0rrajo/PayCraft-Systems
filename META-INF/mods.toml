@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Apache License version 2.0"
+
+[[mods]]
+modId="paycraft-0.0.0.1A"
+version="0.0.0.1A"
+displayName="Paycraft"
+authors="4411daniel"
+
+[[dependencies.paycraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
