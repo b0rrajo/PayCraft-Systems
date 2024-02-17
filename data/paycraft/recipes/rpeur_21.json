@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "paycraft:eur_01",
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "paycraft:eur_02",
+    "count": 1
+  }
+}
