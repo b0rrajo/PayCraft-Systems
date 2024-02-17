@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "paycraft:eur_02"
+    }
+  },
+  "result": {
+    "item": "paycraft:eur_01",
+    "count": 2
+  }
+}
