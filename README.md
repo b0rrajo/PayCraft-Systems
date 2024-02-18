@@ -1,4 +1,6 @@
-# PayCraft System
-Vs: ALPHA - 0.0.0.1A
+# PayCraft Systems
+PayCraft Systems (abbreviated Paycraft) is an experimental mod for Minecraft Java that simplifies the traditional purchase method on Minecraft Servers.
 
-PayCraft is a mod that simplifies the traditional purchase method on Minecraft Servers, **avaliable soon**
+**avaliable soon**
+> [!WARNING]
+> This is a **PROTOTYPE** of the final version, please be careful.
