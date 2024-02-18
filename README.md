@@ -6,3 +6,5 @@ PayCraft Systems (abbreviated Paycraft) is an experimental mod for Minecraft Jav
 > This is a **PROTOTYPE** of the final version, please be careful.
 
 <sub>Current version: 0.0.0.1A - Alpha</sub>
+
+<sub>©️ PAYCRAFT SYSTEMS - 2024</sub>
