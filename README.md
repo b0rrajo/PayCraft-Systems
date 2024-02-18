@@ -3,7 +3,7 @@ PayCraft Systems (abbreviated Paycraft) is an experimental mod for Minecraft Jav
 
 **avaliable soon**
 >[!NOTE]
-> The public file is not ready yet
+> Public file is not ready yet
 
 > [!WARNING]
 > This is a **PROTOTYPE** of the final version, if you compile there, please be careful.
