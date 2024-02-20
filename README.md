@@ -9,7 +9,7 @@ New Webpage [here!](https://4411daniel.github.io/) | In development
 
 > [!WARNING]
 > This is a **PROTOTYPE** of the final version, if you compile there, please be careful.
-> >For this mod you will need [forje 1.20.1 (47.2.0)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
+> For this mod you will need [forje 1.20.1 (47.2.0)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 
 <sub>Current version: 0.0.0.1A - Alpha</sub>
 
