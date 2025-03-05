@@ -1,4 +1,4 @@
-<div><picture><img height="100" width="100" title="Paycraft's Logo" src="https://github.com/b0rrajo/PayCraft-Systems/blob/master/data/paycraft/resources/img/Paycraft.png" /></picture></div>
+<div><picture><img height="640" width="360" title="Paycraft's Logo" src="https://github.com/b0rrajo/PayCraft-Systems/blob/master/data/paycraft/resources/img/Paycraft.png" /></picture></div>
 
 # PayCraft Systems
 PayCraft Systems (abbreviated Paycraft) is an experimental mod for Minecraft Java that simplifies the traditional purchase method on Minecraft Servers | **avaliable soon**
