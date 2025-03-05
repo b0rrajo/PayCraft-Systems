@@ -6,7 +6,8 @@ PayCraft Systems (abbreviated Paycraft) is an experimental mod for Minecraft Jav
 Curseforge/Modrinth pages **comming soon**
 
 > [!WARNING]
-> Public file is not ready yet. This is a **PROTOTYPE** of the final version, if you compile there, please be careful.
+> Public file is not ready yet. This is a **PROTOTYPE** of the finals version.
+> Please be careful if you compile there, 
 > 
 > For this mod you will need [forje 1.20.1 (47.2.0)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 
